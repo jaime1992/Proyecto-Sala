@@ -1,0 +1,28 @@
+nombre,descripcion,capacidad,campus_id,tipo_sala_id
+M1-101,Sala 1,50,Macul,Sala Catedras
+M1-102,Sala 2,50,Macul,Sala Catedras
+M1-103,Sala 3,50,Providencia,Sala Catedras
+M1-104,Sala 4,45,Casa Central,Sala Catedras
+M1-201,Sala 5,12,Macul,Laboratorio de Fisica
+Laboratorio 1,Sala 6,50,Macul,Laboratorio de Computacion
+M8-100,Sala 7,8,Macul,Sala Centro de Alumno
+M6-200,Sala 8,12,Macul,Laboratorio de electricidad
+M8-200,Sala 9,12,Macul,Laboratorio de Mecanica
+M1-205,Sala 10,16,Macul,Laboratorio de Fisica
+P18-320,Sala 11,50,Providencia,Sala Catedras
+P19-320,Sala 12,50,Providencia,Sala Catedras
+P19-321,Sala 13,50,Providencia,Sala Catedras
+P19-322,Sala 14,45,Providencia,Sala Catedras
+P19-323,Sala 15,12,Providencia,Sala Catedras
+P19-324,Sala 16,50,Providencia,Sala Catedras
+P181,Sala 17,8,Casa Central,Laboratorio de Fisica
+P182,Sala 18,12,Casa Central,Laboratorio de Fisica
+P183,Sala 19,12,Casa Central,Sala Catedras
+P184,Sala 20,16,Casa Central,Sala Catedras
+P185,Sala 21,50,Casa Central,Sala Catedras
+P186,Sala 22,50,Casa Central,Sala Catedras
+P19-525,Sala 23,50,Providencia,Sala Catedras
+P19-620,Sala 24,45,Providencia,Sala Catedras
+P19-720,Sala 25,12,Providencia,Laboratorio de Fisica
+P20-820,Sala 26,50,Providencia,Sala Catedras
+P20-920,Sala 27,8,Providencia,Laboratorio de Fisica
